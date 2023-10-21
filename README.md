@@ -2,8 +2,8 @@
 I really enjoy learning languages like Python and i have learned python at Intermediate level.
 - 👀 I’m interested in ...Reading Books
 - 🌱 I’m currently learning ...Data Science with python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/aman-mishra-b9b413240
+- 📫 How to reach me ...https://github.com/Amanmishra03
 
 <!---
 Amanmishra03/Amanmishra03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
