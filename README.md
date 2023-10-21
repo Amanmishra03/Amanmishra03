@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman kumar mishra from Lucknow currently pursuing B.tech from Khwaja moinuddin Chishti language University Lucknow, UP. 
+- 👋 Hi, I’m Aman kumar mishra from Lucknow currently pursuing B.tech from Khwaja Moinuddin Chishti Language University Lucknow, UP. 
 I really enjoy learning languages like Python and i have learned python at Intermediate level.
 - 👀 I’m interested in ...Reading Books
 - 🌱 I’m currently learning ...Data Science with python.
